@@ -1,0 +1,5 @@
+Soy un programador con los siguientes abilidades:
+- Python
+- HTML
+- SQL
+- CSS

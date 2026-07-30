@@ -1,0 +1,43 @@
+skills:
+  - canonical_name: Python
+    category: programming_language
+    aliases:
+      - python
+      - python3
+  - canonical_name: SQL
+    category: database
+    aliases:
+      - sql
+      - structured query language
+
+  - canonical_name: Machine Learning
+    category: machine_learning
+    aliases:
+      - machine learning
+      - ml
+
+  - canonical_name: Large Language Model
+    category: llm
+    aliases:
+      - large language model
+      - large language models
+      - llm
+      - llms
+
+  - canonical_name: Retrieval-Augmented Generation
+    category: llm
+    aliases:
+      - retrieval augmented generation
+      - retrieval-augmented generation
+      - rag
+
+  - canonical_name: PostgreSQL
+    category: database
+    aliases:
+      - postgresql
+      - postgres
+
+  - canonical_name: R
+    category: programming_language
+    aliases:
+      - r
